@@ -10,7 +10,7 @@ window.siteContent = {
             { label: "Projects", href: "#projects" },
             { label: "About", href: "#about" },
             { label: "Tech", href: "#Tech" },
-            { label: "Awards", href: "#awards" },
+            // { label: "Awards", href: "#awards" },
             { iconClass: "fab fa-github", href: "https://github.com/JW0304", external: true, noUnderline: true }
         ]
     },
